@@ -1,7 +1,7 @@
 # TimeSeiresApplications
   Implementations of :
   <ol>
-  <li>ARIMA(arima), 
+  <li>ARIMA(arima), (Auto)
   <li>ETS(ets),
   <li>random walk(rw), 
   <li>random walk with drift(rwd), 
