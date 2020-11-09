@@ -1,7 +1,7 @@
 # TimeSeiresApplications
   Implementations of :
   <ol>
-  <li><a href=' https://www.youtube.com/watch?v=-r7wB9DJtiU&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK'>ARIMA(arima), (Auto)</a>
+  <li><a href='https://www.youtube.com/watch?v=-r7wB9DJtiU&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK'>ARIMA(Auto)</a>
   <li>ETS(ets),
   <li><a href='https://machinelearningmastery.com/gentle-introduction-random-walk-times-series-forecasting-python/'>random walk(rw)</a>
   <li><a href='https://machinelearningmastery.com/gentle-introduction-random-walk-times-series-forecasting-python/'>random walk with drift(rwd)</a>
