@@ -3,8 +3,8 @@
   <ol>
   <li>ARIMA(arima), (Auto)
   <li>ETS(ets),
-  <li>random walk(rw), 
-  <li>random walk with drift(rwd), 
+  <li><a href='https://machinelearningmastery.com/gentle-introduction-random-walk-times-series-forecasting-python/'>random walk(rw)</a>
+  <li><a href='https://machinelearningmastery.com/gentle-introduction-random-walk-times-series-forecasting-python/'>random walk with drift(rwd)</a>
   <li>standard theta method(theta)
   <li>FFORMS
   <li>DeepAR 
