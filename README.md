@@ -8,4 +8,5 @@
   <li>standard theta method(theta)
   <li>FFORMS
   <li>DeepAR 
+  <li><a href='https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/'>Time Series Prediction with LSTM Recurrent Neural Networks</a> 
   </ol>
