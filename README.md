@@ -7,7 +7,7 @@
   <li><a href=https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/'>random walk with drift(rwd)</a>
   <li>standard theta method(theta)
   <li>FFORMS (consulted repository : https://github.com/thiyangt/seer)
-  <li>DeepAR 
+  <li>DeepAR consulted https://github.com/juliensimon/dlnotebooks/blob/master/sagemaker/04-DeepAR-temperatures.ipynb
   <li>Time Series Prediction with LSTM Recurrent Neural Networks :
     <ol>
       <li><a href='https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/'>Univarite</a>
